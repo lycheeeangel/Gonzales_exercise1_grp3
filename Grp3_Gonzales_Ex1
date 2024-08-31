@@ -2,11 +2,11 @@
 
 print("Hello, I'm Angelica Gonzales! BSCS 3G")
 
-Age = 21
-FullName = "Angelica Q. Gonzales"
+age = 21
+Fullname = "Angelica Gonzales"
 
-print(f"Name:", FullName)
-print(f"Age:", Age)
+print("Name:", Fullname)
+print("Age:", age)
 
 member1 = "Kimberly"
 member2 = "Lawrence"
@@ -23,7 +23,7 @@ m1 = 12
 m2 = 45
 m3 = 60
 m4 = 13
-print("Values of m1, m2, m3, m4:\n", m1 , m2, m3, m4)
+print("Values of m1, m2, m3, m4:", m1, m2, m3, m4)
 
 m1 = m2 = m3 = m4 = 100
-print("Values of m1, m2, m3, m4:\n", m1, m2, m4, m4)
+print("Values of m1, m2, m3, m4:", m1, m2, m4, m4)
